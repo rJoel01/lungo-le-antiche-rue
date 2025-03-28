@@ -15,7 +15,7 @@ L'Applicazione realizzata in collaborazione con la Pro Loco di Civitella Roveto 
 
 - <b>Clean Architecture</b>
 
-<h2>Panoramica del programma:</h2>
+<h2>Panoramica dell'App:</h2>
 
 <p align="center">
 Schermata Home Parte 1<br/>
